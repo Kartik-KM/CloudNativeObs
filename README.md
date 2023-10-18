@@ -1,5 +1,6 @@
 # CloudNativeObs
 Deploying a Cloud-Native Monitoring Solution on an Observability Platform
+![Screenshot 2023-09-12 185959](https://github.com/Kartik-KM/CloudNativeObs/assets/123642972/33f22c15-9e1d-43da-9667-f92991c854f2)
 
 #Overview
 
@@ -12,6 +13,7 @@ Improved visibility into application performance and health
 Reduced time to detect and resolve incidents
 Improved understanding of application behavior
 Increased confidence in application deployments
+
 
 #Audience
 CloudNativeObs is intended for developers, engineers, and other IT professionals who are interested in learning how to deploy a cloud-native monitoring solution on an observability platform.
