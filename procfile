@@ -1,1 +1,1 @@
-web: gunicorn 'notesapp.wsgi'
+web: gunicorn 'DailyNotesApp.wsgi'
